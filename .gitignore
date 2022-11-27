@@ -1,0 +1,5 @@
+secrets.py
+__pycache__/
+*.pyc
+geckodriver.log
+buzzerbeater2spreadsheets-718266d98e5a.json
